@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step01-initial-HTML-setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step02-MDL-layout-component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step03-the-grid-component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step04-customising-the-layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/portfolio-example01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sajfd-hfafbjhd.html" beforeDir="false" afterPath="$PROJECT_DIR$/sajfd-hfafbjhd.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,12 +29,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
+            <state relative-caret-position="330">
+              <caret line="22" column="72" lean-forward="true" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -27,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="54" column="89" selection-start-line="54" selection-start-column="89" selection-end-line="54" selection-end-column="89" />
+            <state relative-caret-position="170">
+              <caret line="44" column="58" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -36,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="22" column="150" selection-start-line="22" selection-start-column="150" selection-end-line="22" selection-end-column="150" />
+            <state relative-caret-position="305">
+              <caret line="53" column="71" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -45,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-417">
+            <state relative-caret-position="1365">
               <caret line="91" column="78" selection-start-line="91" selection-start-column="78" selection-end-line="91" selection-end-column="78" />
             </state>
           </provider>
@@ -75,7 +90,18 @@
     <findStrings>
       <find>lex</find>
       <find>img</find>
+      <find>Privacy &amp; Terms</find>
+      <find>Texas</find>
+      <find>Help</find>
+      <find>`</find>
+      <find>main</find>
+      <find>portfo</find>
+      <find>MDL-Static</find>
+      <find>blog</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,16 +109,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/portfolio-example01.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/index.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/blog.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/about.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step03-the-grid-component.html" />
+        <option value="$PROJECT_DIR$/Tutorial/step04-customising-the-layout.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/sajfd-hfafbjhd.html" />
         <option value="$PROJECT_DIR$/projects.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -144,24 +177,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549501632724</updated>
-      <workItem from="1549501633908" duration="10481000" />
+      <workItem from="1549501633908" duration="12241000" />
+      <workItem from="1549814030464" duration="2058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10481000" />
+    <option name="totallyTimeSpent" value="14299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -169,6 +199,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -208,23 +242,16 @@
     <entry file="file://$PROJECT_DIR$/images/portfolio-example-03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="53" column="79" selection-start-line="53" selection-start-column="79" selection-end-line="53" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
-          <caret line="54" column="89" selection-start-line="54" selection-start-column="89" selection-end-line="54" selection-end-column="89" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="51" selection-start-line="100" selection-start-column="51" selection-end-line="100" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
+        <state relative-caret-position="1365">
           <caret line="91" column="78" selection-start-line="91" selection-start-column="78" selection-end-line="91" selection-end-column="78" />
         </state>
       </provider>
@@ -243,10 +270,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="72" lean-forward="true" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="44" column="58" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="22" column="150" selection-start-line="22" selection-start-column="150" selection-end-line="22" selection-end-column="150" />
+        <state relative-caret-position="305">
+          <caret line="53" column="71" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
         </state>
       </provider>
     </entry>
