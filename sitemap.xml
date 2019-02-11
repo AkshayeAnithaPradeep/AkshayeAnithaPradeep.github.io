@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/index.html</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/projects.html</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/blog.html</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/contact.html</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://people.tamu.edu/~akshayeap/sajfd-hfafbjhd.html</loc>
+  <lastmod>2019-02-11T06:58:54+00:00</lastmod>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+
+
+</urlset>

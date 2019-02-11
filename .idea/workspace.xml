@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step01-initial-HTML-setup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step02-MDL-layout-component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step03-the-grid-component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step04-customising-the-layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/step05-individual-pages/portfolio-example01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sajfd-hfafbjhd.html" beforeDir="false" afterPath="$PROJECT_DIR$/sajfd-hfafbjhd.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="305">
@@ -78,8 +63,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sajfd-hfafbjhd.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="68" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="68" />
+            <state relative-caret-position="202">
+              <caret line="22" column="368" selection-start-line="22" selection-start-column="368" selection-end-line="22" selection-end-column="368" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -118,10 +112,11 @@
         <option value="$PROJECT_DIR$/Tutorial/step03-the-grid-component.html" />
         <option value="$PROJECT_DIR$/Tutorial/step04-customising-the-layout.html" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/sajfd-hfafbjhd.html" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sajfd-hfafbjhd.html" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
       </list>
     </option>
   </component>
@@ -178,12 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549501632724</updated>
       <workItem from="1549501633908" duration="12241000" />
-      <workItem from="1549814030464" duration="2058000" />
+      <workItem from="1549814030464" duration="3203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14299000" />
+    <option name="totallyTimeSpent" value="15444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -263,13 +258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sajfd-hfafbjhd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="68" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -288,6 +276,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="53" column="71" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sajfd-hfafbjhd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="22" column="368" selection-start-line="22" selection-start-column="368" selection-end-line="22" selection-end-column="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
         </state>
       </provider>
     </entry>
