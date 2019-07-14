@@ -58,9 +58,6 @@ class App extends Component {
                             return <SEO/>;
                         }}/>
                     </div>
-                    <div className="footer">
-                        <Footer/>
-                    </div>
                 </Router>
             </div>
         );
