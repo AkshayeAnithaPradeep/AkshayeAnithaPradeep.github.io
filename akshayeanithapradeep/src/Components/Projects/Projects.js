@@ -6,6 +6,7 @@ import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 import {PROJECT_IMAGES} from './../../images';
+import {Link} from "react-router-dom";
 import './Projects.css';
 
 class Projects extends Component {
@@ -17,7 +18,7 @@ class Projects extends Component {
                 img: PROJECT_IMAGES.seoImage,
                 desc: 'This is a Search Engine Optimization Project completed as a part of Information' +
                     '                                        Storage and Retrieval class.',
-                linkTo: '/seo'
+                linkTo: ''
             },
             {
                 name: 'Human Robot Team Observation App',
@@ -89,21 +90,23 @@ class Projects extends Component {
                     {projects.map((project) => {
                         return (
                             <Grid item xs={12} sm={4} key={project.name}>
-                                <Card>
-                                    <CardActionArea href={project.linkTo} className='projects-card'>
-                                        <CardMedia
-                                            className="card-media"
-                                            image={project.img}/>
-                                        <CardContent>
-                                            <Typography gutterBottom variant="h5" component="h2">
-                                                {project.name}
-                                            </Typography>
-                                            <Typography variant="body2" color="textSecondary" component="p">
-                                                {project.desc}
-                                            </Typography>
-                                        </CardContent>
-                                    </CardActionArea>
-                                </Card>
+                                <Link to='/seo' className='project-link'>
+                                    <Card className='project-card'>
+                                        <CardActionArea href={project.linkTo} className='projects-card'>
+                                            <CardMedia
+                                                className="card-media"
+                                                image={project.img}/>
+                                            <CardContent>
+                                                <Typography gutterBottom variant="h5" component="h2">
+                                                    {project.name}
+                                                </Typography>
+                                                <Typography variant="body2" color="textSecondary" component="p">
+                                                    {project.desc}
+                                                </Typography>
+                                            </CardContent>
+                                        </CardActionArea>
+                                    </Card>
+                                </Link>
                             </Grid>
                         )
                     })}

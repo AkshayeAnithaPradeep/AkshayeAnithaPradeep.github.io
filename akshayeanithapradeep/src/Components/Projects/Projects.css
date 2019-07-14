@@ -2,11 +2,21 @@
     width: 100%;
 }
 
+.project-link{
+    text-decoration: none;
+}
+
 .projects-card {
     height: 450px;
 }
 
 .projects-max-width {
-    max-width: 80%;
+    max-width: 100%;
     margin: auto;
+}
+
+@media (min-width: 600px) {
+    .projects-max-width {
+        width: 80%;
+    }
 }

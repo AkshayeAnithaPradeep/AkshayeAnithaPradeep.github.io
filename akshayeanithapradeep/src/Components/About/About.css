@@ -5,5 +5,11 @@
 
 .card {
     margin: auto;
-    width: 70%;
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .card {
+        width: 70%;
+    }
 }
