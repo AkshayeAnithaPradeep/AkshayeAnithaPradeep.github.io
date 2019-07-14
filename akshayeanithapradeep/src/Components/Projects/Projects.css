@@ -1,0 +1,12 @@
+.card-media {
+    width: 100%;
+}
+
+.projects-card {
+    height: 450px;
+}
+
+.projects-max-width {
+    max-width: 80%;
+    margin: auto;
+}

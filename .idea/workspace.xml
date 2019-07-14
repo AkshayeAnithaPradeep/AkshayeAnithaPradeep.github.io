@@ -1,7 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="" />
+    <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/akshayeanithapradeep.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton/PageSkeleton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton/PageSkeleton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/aiTunes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/facezam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/quickdraw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/about-header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/contact-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/contact-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-blog07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/example-work09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/footer-background.png" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/footer-background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo-wide.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/photo-wide.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-example-08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sajfd-hfafbjhd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,74 +91,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog.html">
+        <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
+            <state relative-caret-position="224">
+              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
+        <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sajfd-hfafbjhd.html">
+        <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/build/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="103" selection-start-line="56" selection-start-column="103" selection-end-line="56" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
+            <state>
+              <caret column="81" selection-start-column="81" selection-end-column="81" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sitemap.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="93" selection-start-line="58" selection-start-column="93" selection-end-line="58" selection-end-column="93" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/static/js/2.6a64fa03.chunk.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lex</find>
-      <find>img</find>
-      <find>Privacy &amp; Terms</find>
-      <find>Texas</find>
-      <find>Help</find>
       <find>`</find>
       <find>main</find>
       <find>portfo</find>
       <find>MDL-Static</find>
       <find>blog</find>
       <find>ifra</find>
+      <find>portfolio-logo</find>
+      <find>portfolio-header</find>
+      <find>portfolio-card</find>
+      <find>mdl-layout__title</find>
+      <find>mdl-mini-footer__left-section</find>
+      <find>mdl-mini-footer__right-section</find>
+      <find>mdl-mini-footer__link-list</find>
+      <find>footer</find>
+      <find>mdl-mini-footer</find>
+      <find>mdl-logo</find>
+      <find>main-component</find>
+      <find>mdl-layout__header</find>
+      <find>mdl-layout__header-row</find>
+      <find>portfolio-navigation-row</find>
+      <find>portfolio-logo-row</find>
+      <find>45</find>
+      <find>mdl-navigation</find>
+      <find>font</find>
+      <find>img</find>
+      <find>mdl-grid</find>
+      <find>portfolio-max-width</find>
+      <find>mdl-cell--12-col</find>
+      <find>mdl-card</find>
+      <find>mdl-cell</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -93,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html" />
         <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/portfolio-example01.html" />
         <option value="$PROJECT_DIR$/Tutorial/step05-individual-pages/index.html" />
@@ -107,10 +191,31 @@
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/public/index.html" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton/PageSkeleton.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton/PageSkeleton.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/App.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Footer/Footer.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Footer/Footer.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/index.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/App.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/images/index.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.js" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.css" />
+        <option value="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -120,25 +225,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MyPage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyPage" type="462c0819:PsiDirectoryNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="akshayeanithapradeep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="2.6a64fa03.chunk.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/akshayeanithapradeep/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,18 +313,21 @@
       <workItem from="1549501633908" duration="12241000" />
       <workItem from="1549814030464" duration="5632000" />
       <workItem from="1549904864526" duration="666000" />
+      <workItem from="1563035385212" duration="19558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18539000" />
+    <option name="totallyTimeSpent" value="38097000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31571528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -186,7 +337,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3192771" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -197,83 +348,262 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tutorial/step05-individual-pages/about.html" />
-    <entry file="file://$PROJECT_DIR$/images/portfolio-example-01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/header-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/photo.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/photo-wide.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/example-blog01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/contact-image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/about-header.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/portfolio-example-03.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorial/step05-individual-pages/contact.html" />
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Footer/Footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/PageSkeleton/PageSkeleton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
+        <state relative-caret-position="247">
+          <caret line="71" column="18" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="71" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Resume/Resume.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="93" selection-start-line="56" selection-start-column="93" selection-end-line="56" selection-end-column="93" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-08.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-blog07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/contact-image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work05.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work07.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work08.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work09.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/header-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/portfolio-example-04.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sajfd-hfafbjhd.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="103" selection-start-line="56" selection-start-column="103" selection-end-line="56" selection-end-column="103" />
+        <state relative-caret-position="188">
+          <caret line="124" column="18" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="18" lean-forward="true" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/example-work01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="93" selection-start-line="58" selection-start-column="93" selection-end-line="58" selection-end-column="93" />
+        <state relative-caret-position="305">
+          <caret line="96" column="70" selection-start-line="96" selection-start-column="57" selection-end-line="96" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/About/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/SEO/SEO.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="65" selection-start-line="65" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="90" column="71" selection-start-line="90" selection-start-column="71" selection-end-line="90" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="18" lean-forward="true" selection-start-line="60" selection-start-column="12" selection-end-line="97" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/images/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/src/Components/Contact/Contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akshayeanithapradeep/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="81" selection-start-column="81" selection-end-column="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="28" column="90" selection-start-line="28" selection-start-column="90" selection-end-line="28" selection-end-column="90" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/static/js/2.6a64fa03.chunk.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
