@@ -5,6 +5,7 @@ import Projects from './Projects/Projects';
 import Resume from './Resume/Resume';
 import Contact from './Contact/Contact';
 import SEO from './SEO/SEO'
+import ProjectDescription from './ProjectDescription/ProjectDescription'
 
 export {
     PageSkeleton,
@@ -13,5 +14,6 @@ export {
     Projects,
     Resume,
     Contact,
-    SEO
+    SEO,
+    ProjectDescription
 }

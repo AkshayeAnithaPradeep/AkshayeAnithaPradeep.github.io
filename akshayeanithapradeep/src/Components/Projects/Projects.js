@@ -8,74 +8,84 @@ import Grid from '@material-ui/core/Grid';
 import {PROJECT_IMAGES} from './../../images';
 import {Link} from "react-router-dom";
 import './Projects.css';
+import {PROJECT_DATA} from "../../data/projects";
 
 class Projects extends Component {
     render() {
 
         const projects = [
             {
+                id: 0,
                 name: 'SAJFD HFAFJHD',
                 img: PROJECT_IMAGES.seoImage,
                 desc: 'This is a Search Engine Optimization Project completed as a part of Information' +
                     '                                        Storage and Retrieval class.',
-                linkTo: ''
+                linkTo: '/seo'
             },
             {
+                id: 1,
                 name: 'Human Robot Team Observation App',
                 img: PROJECT_IMAGES.hrtoImage,
                 desc: 'A cross platform application to log robotics' +
                     '                                        team details, built using React Native' +
                     '                                        Javascript framework.',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 2,
                 name: 'Study Tracker',
                 img: PROJECT_IMAGES.studyTrackerImage,
                 desc: 'A web application to enter study goals, track' +
                     '                                        time spent working on goals and to adjust' +
                     '                                        schedules as and when needed.',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 3,
                 name: 'FaceZam',
                 img: PROJECT_IMAGES.facezamImage,
                 desc: "A Web application that can detect the emotion on a face and displays the corresponding emoji " +
                     "using an Ensemble-CNN model for facial emotion recognition",
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 4,
                 name: 'aiTunes',
                 img: PROJECT_IMAGES.aiTunesImage,
                 desc: 'A novel approach to queue music to a user based on his present emotional state and the ' +
                     'session-based data',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 5,
                 name: 'Doodle Recognition',
                 img: PROJECT_IMAGES.doodleImage,
                 desc: 'A web based paint-like application where the user can doodle and the application will predict ' +
                     'what the user has drawn using Residual Network trained on Google Quick Draw Doodle Dataset',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 6,
                 name: 'Person Reidentification in the Wild',
                 img: PROJECT_IMAGES.personReidentificationImage,
                 desc: 'A deep learning model to find a matching per- son in a gallery of images for a given image ' +
                     'using facial and bodily features',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 7,
                 name: 'Music Genre Detector',
                 img: PROJECT_IMAGES.musicGenreImage,
                 desc: 'An Android application that detects the genre of a song given as input',
-                linkTo: ''
+                linkTo: '/project-desc'
             },
             {
+                id: 8,
                 name: 'Canteen Management System',
                 img: PROJECT_IMAGES.canteenImage,
                 desc: 'A web application with which a canteen admin can keep track of monthly users and a ' +
                     'canteen user can view his monthly expenses',
-                linkTo: ''
+                linkTo: '/project-desc'
             }
         ];
         return (
@@ -90,9 +100,14 @@ class Projects extends Component {
                     {projects.map((project) => {
                         return (
                             <Grid item xs={12} sm={4} key={project.name}>
-                                <Link to='/seo' className='project-link'>
+                                <Link to={{
+                                    pathname: project.linkTo,
+                                    state: {
+                                        projectData: PROJECT_DATA[project.id]
+                                    }
+                                }} className='project-link'>
                                     <Card className='project-card'>
-                                        <CardActionArea href={project.linkTo} className='projects-card'>
+                                        <CardActionArea className='projects-card'>
                                             <CardMedia
                                                 className="card-media"
                                                 image={project.img}/>

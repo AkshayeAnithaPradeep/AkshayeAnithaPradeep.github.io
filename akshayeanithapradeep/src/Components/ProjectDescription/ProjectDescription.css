@@ -1,0 +1,38 @@
+.project-header{
+    text-align: center;
+    padding: 30px;
+}
+
+.project-description-component{
+    padding-bottom: 50px;
+}
+
+.project-body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.project-desc{
+    padding-left: 30px;
+}
+
+.project-links{
+    padding-left: 30px;
+}
+
+.project-link{}
+
+.project-description-component{
+    margin: auto;
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .project-description-component {
+        width: 85%;
+    }
+}
+
+.project-paper{
+    padding-bottom: 20px;
+}

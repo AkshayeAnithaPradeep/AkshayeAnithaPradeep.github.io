@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {PageSkeleton, About, Footer, Projects, Resume, Contact, SEO} from './Components/'
+import {PageSkeleton, About, Projects, Resume, Contact, SEO, ProjectDescription} from './Components/'
 import {BrowserRouter as Router, Route} from "react-router-dom";
 import './App.css';
 
@@ -56,6 +56,11 @@ class App extends Component {
                         <Route path="/seo/" render={() => {
                             this.updateRoute(ROUTES.PROJECTS);
                             return <SEO/>;
+                        }}/>
+                        <Route path="/project-desc/" render={(state) => {
+                            console.log(state);
+                            this.updateRoute(ROUTES.PROJECTS);
+                            return <ProjectDescription projectData={state.location.state.projectData}/>;
                         }}/>
                     </div>
                 </Router>
