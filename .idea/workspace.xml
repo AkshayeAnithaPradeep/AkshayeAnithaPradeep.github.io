@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/ProjectDescription/ProjectDescription.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/ProjectDescription/ProjectDescription.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/data/projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/akshayeanithapradeep.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/akshayeanithapradeep.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akshayeanithapradeep/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/akshayeanithapradeep/src/Components/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="3a048573-624a-4b72-a8a4-7b90d0ffce3d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -161,22 +152,7 @@
               <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="akshayeanithapradeep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="akshayeanithapradeep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AkshayeAnithaPradeep.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AkshayeAnithaPradeep.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="akshayeanithapradeep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectDescription" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,12 +213,12 @@
       <workItem from="1549501633908" duration="12241000" />
       <workItem from="1549814030464" duration="5632000" />
       <workItem from="1549904864526" duration="666000" />
-      <workItem from="1563035385212" duration="28266000" />
+      <workItem from="1563035385212" duration="28554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46805000" />
+    <option name="totallyTimeSpent" value="47093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
