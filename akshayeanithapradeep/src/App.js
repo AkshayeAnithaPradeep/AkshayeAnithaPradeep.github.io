@@ -20,13 +20,13 @@ class App extends Component {
         }
     }
 
-    updateRoute(route) {
+    updateRoute =route => {
         if(this.state.route !== route){
             this.setState({
                 route: route
             });
         }
-    }
+    };
 
     render() {
         const route = this.state.route;
